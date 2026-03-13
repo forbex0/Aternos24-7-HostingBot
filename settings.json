@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hytrix.fun",
-    "port": 18672,
+    "ip": "hytrixmc.falixsrv.me",
+    "port": 21553,
     "version": "",
     "try-creative": false
   },
