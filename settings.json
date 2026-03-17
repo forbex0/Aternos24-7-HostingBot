@@ -2,14 +2,14 @@
   "name": "AFK Bot",
 
   "accounts": [
-    { "username": "imgonnacream1", "password": "", "type": "offline" },
-    { "username": "imgonnacream2", "password": "", "type": "offline" },
-    { "username": "imgonnacream3", "password": "", "type": "offline" },
-    { "username": "imgonnacream4", "password": "", "type": "offline" },
-    { "username": "imgonnacream5", "password": "", "type": "offline" },
-    { "username": "imgonnacream6", "password": "", "type": "offline" },
-    { "username": "imgonnacream7", "password": "", "type": "offline" },
-    { "username": "imgonnacream8", "password": "", "type": "offline" }
+    { "username": "A7MEED202DX", "password": "", "type": "offline" },
+    { "username": "MO7AAAFKWNN", "password": "", "type": "offline" },
+    { "username": "SELFNOVAW", "password": "", "type": "offline" },
+    { "username": "SSBWALED", "password": "", "type": "offline" },
+    { "username": "NOSHERVE", "password": "", "type": "offline" },
+    { "username": "NEHAD22XXWW", "password": "", "type": "offline" },
+    { "username": "LONGETIMES", "password": "", "type": "offline" },
+    { "username": "UPDDDDSSS", "password": "", "type": "offline" }
   ],
 
   "server": {
@@ -40,9 +40,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "best server",
-        "wallahe the best",
-        "miiiice"
+        "",
+        "F",
+        ""
       ]
     },
     "chat-log": true,
