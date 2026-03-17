@@ -1,22 +1,31 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
-    "type": "offline"
-  },
+
+  "accounts": [
+    { "username": "imgonnacream1", "password": "", "type": "offline" },
+    { "username": "imgonnacream2", "password": "", "type": "offline" },
+    { "username": "imgonnacream3", "password": "", "type": "offline" },
+    { "username": "imgonnacream4", "password": "", "type": "offline" },
+    { "username": "imgonnacream5", "password": "", "type": "offline" },
+    { "username": "imgonnacream6", "password": "", "type": "offline" },
+    { "username": "imgonnacream7", "password": "", "type": "offline" },
+    { "username": "imgonnacream8", "password": "", "type": "offline" }
+  ],
+
   "server": {
-    "ip": "hytrixmc.falixsrv.me",
-    "port": 21553,
+    "ip": "hytrix.fun",
+    "port": 25538,
     "version": "",
     "try-creative": false
   },
+
   "position": {
     "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
   },
+
   "utils": {
     "auto-auth": {
       "enabled": true,
@@ -46,6 +55,7 @@
       "max-interval": 60
     }
   },
+
   "movement": {
     "enabled": true,
     "circle-walk": {
@@ -62,6 +72,7 @@
       "interval": 10000
     }
   },
+
   "modules": {
     "avoidMobs": true,
     "combat": true,
@@ -69,14 +80,17 @@
     "chat": true,
     "console-commands": true
   },
+
   "combat": {
     "attack-mobs": true,
     "auto-eat": true
   },
+
   "beds": {
     "pick-up-day": false,
     "place-night": false
   },
+
   "discord": {
     "enabled": true,
     "webhookUrl": "https://discord.com/api/webhooks/1481561840273330331/4OwexV-oE_V7TJ7xguwA37nhfrPP7al-Pn1cqy-tiWtSyKmoPasXbr3OVBxMS43vf7YZ",
@@ -86,6 +100,7 @@
       "chat": false
     }
   },
+
   "chat": {
     "respond": true
   }
