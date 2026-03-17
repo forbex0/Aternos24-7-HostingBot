@@ -1,31 +1,22 @@
 {
   "name": "AFK Bot",
-
-  "accounts": [
-    { "username": "A7MEED202DX", "password": "", "type": "offline" },
-    { "username": "MO7AAAFKWNN", "password": "", "type": "offline" },
-    { "username": "SELFNOVAW", "password": "", "type": "offline" },
-    { "username": "SSBWALED", "password": "", "type": "offline" },
-    { "username": "NOSHERVE", "password": "", "type": "offline" },
-    { "username": "NEHAD22XXWW", "password": "", "type": "offline" },
-    { "username": "LONGETIMES", "password": "", "type": "offline" },
-    { "username": "UPDDDDSSS", "password": "", "type": "offline" }
-  ],
-
+  "bot-account": {
+    "username": "N0VA",
+    "password": "",
+    "type": "offline"
+  },
   "server": {
-    "ip": "hytrix.fun",
-    "port": 19132,
+    "ip": "7L_SMP_is_real.aternos.me",
+    "port": 62213,
     "version": "",
     "try-creative": false
   },
-
   "position": {
     "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
   },
-
   "utils": {
     "auto-auth": {
       "enabled": true,
@@ -40,22 +31,16 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "",
-        "F",
-        ""
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
-    "periodic-rejoin": {
-      "enabled": false,
-      "min-interval": 20,
-      "max-interval": 60
-    }
+    "max-reconnect-delay": 120000
   },
-
   "movement": {
     "enabled": true,
     "circle-walk": {
@@ -72,7 +57,6 @@
       "interval": 10000
     }
   },
-
   "modules": {
     "avoidMobs": true,
     "combat": true,
@@ -80,27 +64,23 @@
     "chat": true,
     "console-commands": true
   },
-
   "combat": {
     "attack-mobs": true,
     "auto-eat": true
   },
-
   "beds": {
     "pick-up-day": false,
     "place-night": false
   },
-
   "discord": {
-    "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1481561840273330331/4OwexV-oE_V7TJ7xguwA37nhfrPP7al-Pn1cqy-tiWtSyKmoPasXbr3OVBxMS43vf7YZ",
+    "enabled": false,
+    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
       "disconnect": true,
       "chat": false
     }
   },
-
   "chat": {
     "respond": true
   }
